@@ -1,2 +1,2 @@
-# CSS-basic
+# CSS-basis
 personal works show
