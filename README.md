@@ -1,2 +1,2 @@
 # CSS-basic
-person works show
+personal works show
